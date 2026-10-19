@@ -2,6 +2,8 @@
 
 Een interactieve oefen-app voor kinderen, in het Nederlands. Gemaakt voor een meisje van 9, maar zo gebouwd dat er makkelijk onderwerpen en leeftijden bij kunnen.
 
+**Live: <https://jvanderborght.github.io/oefenhoek/>** (GitHub Pages, wordt vanzelf bijgewerkt na elke push naar `main`).
+
 Geen installatie, geen server, geen account: het is gewoon een webpagina. Dubbelklik op `index.html` en het werkt (ook offline).
 
 ## Wat zit er in?
